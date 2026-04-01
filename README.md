@@ -1,4 +1,5 @@
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/44a88baa-bf74-4ee4-b538-9fa4c4e388b7" />
 
 # **Fashion Retail Demand Analysis & Forecasting**
 
